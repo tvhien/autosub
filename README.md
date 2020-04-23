@@ -45,3 +45,4 @@ optional arguments:
 ### License
 
 MIT
+pip install git+https://github.com/tvhien/autosub.git
